@@ -1,0 +1,8 @@
+{
+    "name": "Spotistats",
+    "description": "Track your Spotify listening statistics with real-time tracking",
+    "main": "src/spotistats.js",
+    "authors": ["Rudy Dena"],
+    "version": "1.0.0",
+    "manifest_version": 1
+}
