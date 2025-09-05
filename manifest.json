@@ -2,7 +2,7 @@
     "name": "Spotistats",
     "description": "Track your Spotify listening statistics with enhanced JSON storage and data migration",
     "main": "src/spotistats.js",
-    "authors": ["Rudy Dena"],
+    "authors": ["Rudy Deana"],
     "version": "2.0.0",
     "manifest_version": 1
 }
