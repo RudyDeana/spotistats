@@ -69,7 +69,7 @@ You need to have [Spicetify](https://spicetify.app/) installed and configured on
 2. **Download this extension**:
    ```bash
    cd ~/.config/spicetify/Extensions
-   git clone https://github.com/yourusername/spotistats.git
+   git clone https://github.com/RudyDeana/spotistats
    ```
 
 3. **Install the extension**:
@@ -149,4 +149,4 @@ MIT License - feel free to use and modify as needed.
 
 ## Author
 
-Created by Rudy Dena
+Created by Rudy Deana
