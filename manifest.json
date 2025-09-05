@@ -1,8 +1,13 @@
-{
+[
+  {
     "name": "Spotistats",
     "description": "Track your Spotify listening statistics with enhanced JSON storage and data migration",
     "main": "src/spotistats.js",
-    "authors": ["Rudy Deana"],
-    "version": "2.0.0",
-    "manifest_version": 1
-}
+    "preview": "screenshot.png",
+    "readme": "README.md",
+    "authors": [
+      { "name": "Rudy Deana", "url": "https://github.com/RudyDeana" }
+    ],
+    "tags": ["statistics", "spotify", "tracking"]
+  }
+]
